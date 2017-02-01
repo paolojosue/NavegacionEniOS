@@ -20,6 +20,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func btnNavegacionCodigoTouch(_ sender: UIButton) {
+        
+        self.performSegue(withIdentifier: "transicion", sender:sender)
+        
+        
+    }
 
 }
 
