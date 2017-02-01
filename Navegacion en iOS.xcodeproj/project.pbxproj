@@ -13,6 +13,8 @@
 		FBBEA27B1E41652100C5D3BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBEA27A1E41652100C5D3BA /* Assets.xcassets */; };
 		FBBEA27E1E41652100C5D3BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBEA27C1E41652100C5D3BA /* LaunchScreen.storyboard */; };
 		FBBEA2861E416E8100C5D3BA /* NuevoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBEA2851E416E8100C5D3BA /* NuevoViewController.swift */; };
+		FBBEA2881E417FA800C5D3BA /* TerceraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBEA2871E417FA800C5D3BA /* TerceraViewController.swift */; };
+		FBBEA28A1E417FB600C5D3BA /* CuartaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBEA2891E417FB600C5D3BA /* CuartaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FBBEA27D1E41652100C5D3BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBBEA27F1E41652100C5D3BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBBEA2851E416E8100C5D3BA /* NuevoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NuevoViewController.swift; sourceTree = "<group>"; };
+		FBBEA2871E417FA800C5D3BA /* TerceraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TerceraViewController.swift; sourceTree = "<group>"; };
+		FBBEA2891E417FB600C5D3BA /* CuartaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CuartaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				FBBEA27A1E41652100C5D3BA /* Assets.xcassets */,
 				FBBEA27C1E41652100C5D3BA /* LaunchScreen.storyboard */,
 				FBBEA27F1E41652100C5D3BA /* Info.plist */,
+				FBBEA2871E417FA800C5D3BA /* TerceraViewController.swift */,
+				FBBEA2891E417FB600C5D3BA /* CuartaViewController.swift */,
 			);
 			path = "Navegacion en iOS";
 			sourceTree = "<group>";
@@ -142,6 +148,8 @@
 				FBBEA2861E416E8100C5D3BA /* NuevoViewController.swift in Sources */,
 				FBBEA2761E41652100C5D3BA /* ViewController.swift in Sources */,
 				FBBEA2741E41652100C5D3BA /* AppDelegate.swift in Sources */,
+				FBBEA28A1E417FB600C5D3BA /* CuartaViewController.swift in Sources */,
+				FBBEA2881E417FA800C5D3BA /* TerceraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
